@@ -3,7 +3,7 @@
 
 ## Overview
 The **Science Experiment Helper** is an interactive tool designed to help children and parents explore science experiments together. This program offers a wide range of hands-on experiments, provides clear instructions, lists materials needed, and includes an interactive timer to guide users through each step. It's a fantastic resource for making science engaging and accessible, ideal for use in educational settings or at home.
-      <img src="https://drive.google.com/file/d/1HQ0PTaDcLNQozHk4UwOCCDcTPVnOwEF5/view">
+      <img src="https://s5.ezgif.com/tmp/ezgif-5-44bb1d1832.gif">
 ## Features
 - **Experiment Suggestions**: Provides a curated list of science experiments that users can choose from based on interests or materials on hand.
 - **Materials List**: Each experiment includes a complete list of materials, ensuring users have everything they need before starting.
